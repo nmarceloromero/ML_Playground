@@ -25,3 +25,6 @@ Run the container using:
 <code>$ docker run -p 8501:8501 streamlitapp</code>
 
 The app is now available through the URL : <code>http://0.0.0.0:8501</code>
+
+## 5. CO2 Emissions
+The **CO2 Emissions** notebook presents some exploratory analysis of a dataset containing information about CO2 emissions from different countries. More concretely, I do a comparison of the emissions from two countries.
